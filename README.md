@@ -1,12 +1,13 @@
 # Battle Royale
 
+## ⚠️ We're Working Here! ⚠️
+This workshop is still under active development.   
+   
+Feel free to browse the code for anything useful you might want to learn, but understand the finished demo may not function as intended yet.
+---
 ## 🎬 Recorded Sessions
 | Link | Instructor | Event |
 | ---- | ---------- | ----- |
-| [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://github.com/solana-developers) | Joe Caulfield | N/A |
+| Coming soon | Joe Caulfield | N/A |
 
 ## 📗 Learn
-
-// TODO
-
-![](./metacamp_workshop.jpg)
